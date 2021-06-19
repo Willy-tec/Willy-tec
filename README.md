@@ -8,5 +8,5 @@
 - 💬 Ask me about what you want
 - 📫 How to reach me: wastiaux.william@gmail.com
 
-- ⚡ Fun fact: I like cat x)
+- ⚡ Fun fact: I like js x)
 -->
