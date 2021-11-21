@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on new project
 
 - 💬 Ask me about what you want
-- 📫 How to reach me: wastiaux.william@gmail.com
+- 📫 How to reach me: contact.wastiaux@gmail.com
 
 - ⚡ Fun fact: I like js x)
 
